@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+  }
+
+  body {
+    padding: 30px;
+  }
+  
+  .brand {
+    font-family: "Snell Roundhand";
+    font-weight: normal;
+    font-size: 60px;
+    text-align: center;
+  }
