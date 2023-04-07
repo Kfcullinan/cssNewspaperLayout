@@ -12,3 +12,11 @@
     font-size: 60px;
     text-align: center;
   }
+
+  .brand-header {
+    grid-area: header;
+  }
+
+  .nav-links {
+    grid-area: nav;
+  }
