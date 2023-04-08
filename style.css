@@ -39,4 +39,6 @@
 
 .section-link:hover {
     text-decoration:underline;
+    background-color: transparent;
+    color:rgb(144, 144, 143);
 }
