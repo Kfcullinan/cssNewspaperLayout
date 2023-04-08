@@ -36,3 +36,7 @@
     font-family: "Futura";
     color: #666;
 }
+
+.section-link:hover {
+    text-decoration:underline;
+}
